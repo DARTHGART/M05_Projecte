@@ -24,10 +24,14 @@ Per crear una comanda utiliitzarem cometes simples " `` " devant i darrere el te
 `$comanda`
 
 Per crear un bloc de comandes utilitzarem una funció semblant a l'anterior, ficant tres cometes simples pero en lloc de ficar devant i darrere el text,les introduirem com a capçaleria i final, exemple:
+`JAVA`
 
 ```
-$Bloc de comandes
-$comanda
+public class HolaMundo {
+    public static void main(String args[]){
+        System.out.println("Hola Mundo!");
+    }
+}
 ```
 ---
 
