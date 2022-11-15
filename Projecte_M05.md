@@ -48,7 +48,7 @@ Si el que volem es afegir una cita ho farem ficant el símbol ">" seguit del que
 
 ---
 
-Si volem crear una llista d'elements, com hem vist dalt, només hem d'introduïr un asterisc " * " seguit del text que volem ficar un punt, per exemple:
+Si volem crear una llista d'element, només hem d'introduïr un asterisc " * " seguit del text que volem ficar un punt, per exemple:
   * Llista 1
   * Llista 2
   * Llista 3
